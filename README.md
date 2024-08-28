@@ -1,4 +1,4 @@
-<h1 align="center"> ENCRIPTADOR DE TEXTO </h1>
+<h1 align="center"> DECODIFICADOR DE TEXTO </h1>
 <p>
   Este projeto é um Desafio da Alura. Este desafio consistia em criar uma página web que permita criptografar e descriptografar mensagens seguindo as seguintes "regras" de criptografia:
 </p>
