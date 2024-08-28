@@ -1,21 +1,11 @@
 <h1 align="center"> ENCRIPTADOR DE TEXTO </h1>
-<h3 align="center">
-:heavy_check_mark: Proyecto finalizado :heavy_check_mark:
-</h3>
 <p>
-  Este proyecto es un Challenge de Alura. Este reto consistía en crear una página web que permita encriptar y desencriptar mensajes siguiendo las siguientes "reglas" de encriptación:
+  Este projeto é um Desafio da Alura. Este desafio consistia em criar uma página web que permita criptografar e descriptografar mensagens seguindo as seguintes "regras" de criptografia:
 </p>
 <ul>
-  <li>La letra "e" es convertida para "enter"</li>
-  <li>La letra "i" es convertida para "imes"</li>
-  <li>La letra "a" es convertida para "ai"</li>
-  <li>La letra "o" es convertida para "ober"</li>
-  <li>La letra "u" es convertida para "ufat"</li>
+  <li>A letra "e" é convertida para "enter"</li>
+  <li>A letra "i" é convertida para "imes"</li>
+  <li>A letra "a" é convertida para "ai"</li>
+  <li>A letra "o" é convertida para "ober"</li>
+  <li>A letra "u" é convertida para "ufat"</li>
 </ul>
-<p>
-  A continuación se muestra la interfaz de la página web creada.
-</p>
-
-![encriptadorPaginaWeb](https://github.com/user-attachments/assets/7997ec0c-7238-43ca-9b32-df2efaa3484a)
-
-En el siguiente enlace puedes probar la página: :link:https://encriptador-zeta-tawny.vercel.app/
