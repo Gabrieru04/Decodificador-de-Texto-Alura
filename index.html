@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
+    <title>Decodificador de Texto</title>
+</head>
+<body>
+    <header>
+        <a href="#" rel="">
+            <img src="./images/logo.png" alt="Logo Alura" class="logo">
+        </a>  
+    </header>
+
+    <main>
+        <section class="criptografador">
+            <textarea class="criptografar" placeholder="Insira o texto aqui"></textarea>
+            <div class="criptografador-aviso">
+                <img src="./images/ponto.png" alt="Imagen Aviso" class="img-aviso">
+                <p class="texto-aviso">Somente letras minúsculas e sem acentos</p>
+            </div>
+            <div class="criptografador-box">
+                <button type="submit" class="btn-criptografar">Criptografar</button>
+                <button type="submit" class="btn-decriptografar">Descriptografar</button>
+            </div>
+        </section>
+        <section class="card">
+           <div class="card-box">
+                <img src="./images/boneco.png" alt="Imagen Boneco" class="img-boneco">
+                <p class="texto-um">Nenhuma mensagem foi encontrada</p>
+                <p class="texto-dois">Insira o texto que deseja criptografar ou desencriptar</p>
+           </div>
+           <textarea type="mensagem" class="avaliar" readonly></textarea>
+           <button type="submit" class="btn-copiar">Copiar</button>
+         </section> 
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
